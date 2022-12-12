@@ -1,4 +1,4 @@
-# sparkline-charts
+# Nuxt 2 Boilerplate powered with TailwindCSS
 
 ## Build Setup
 
